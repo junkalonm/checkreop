@@ -10,7 +10,7 @@ namespace checkrepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("checkaagai3n");
+            Console.WriteLine("cheasefasfsdfai3n");
         }
     }
 }
